@@ -8,8 +8,8 @@
 local W = TomoModMini_Widgets
 local L = TomoModMini_L
 local T = W.Theme
-local FONT = "Interface\\AddOns\\TomoModMini\\Assets\\Fonts\\Tomo.ttf"
-local FONT_BOLD = "Interface\\AddOns\\TomoModMini\\Assets\\Fonts\\Tomo.ttf"
+local FONT = "Interface\\AddOns\\TomoModMini\\Assets\\Fonts\\Poppins-Medium.ttf"
+local FONT_BOLD = "Interface\\AddOns\\TomoModMini\\Assets\\Fonts\\Poppins-SemiBold.ttf"
 
 -- =====================================
 -- HELPER: inline single-line editbox

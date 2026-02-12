@@ -9,7 +9,9 @@ local FONT_PATH = "Interface\\AddOns\\TomoModMini\\Assets\\Fonts\\"
 
 -- Available fonts for the dropdown (Mini only ships Tomo.ttf)
 local FONT_LIST = {
-    { text = "Tomo",                  value = FONT_PATH .. "Tomo.ttf" },
+    { text = "Poppins SemiBold",  value = FONT_PATH .. "Poppins-SemiBold.ttf" },
+    { text = "Poppins Bold",      value = FONT_PATH .. "Poppins-Bold.ttf" },
+    { text = "Tomo",              value = FONT_PATH .. "Tomo.ttf" },
     { text = "Friz Quadrata (WoW)",   value = "Fonts\\FRIZQT__.TTF" },
     { text = "Arial Narrow (WoW)",    value = "Fonts\\ARIALN.TTF" },
     { text = "Morpheus (WoW)",        value = "Fonts\\MORPHEUS.TTF" },

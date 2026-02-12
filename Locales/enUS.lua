@@ -18,7 +18,7 @@ TomoModMini_RegisterLocale("enUS", {
     -- CONFIG: General Panel
     -- =====================
     ["section_about"]                   = "About",
-    ["about_text"]                      = "|cff0cd29fTomoModMini|r v2.0.0 by TomoAniki\nLightweight interface with QOL, UnitFrames and Nameplates.\nType /tm help for the command list.",
+    ["about_text"]                      = "|cffff3399TomoMod|rMini v2.1.0 by TomoAniki\nLightweight interface with QOL, UnitFrames and Nameplates.\nType /tm help for the command list.",
     ["section_general"]                 = "General",
     ["btn_reset_all"]                   = "Reset All",
     ["info_reset_all"]                  = "This will reset ALL settings and reload the UI.",

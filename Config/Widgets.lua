@@ -28,8 +28,8 @@ W.Theme = {
 }
 
 local T = W.Theme
-local FONT = "Interface\\AddOns\\TomoModMini\\Assets\\Fonts\\Tomo.ttf"
-local FONT_BOLD = "Interface\\AddOns\\TomoModMini\\Assets\\Fonts\\Tomo-Bold.ttf"
+local FONT = "Interface\\AddOns\\TomoModMini\\Assets\\Fonts\\Poppins-Medium.ttf"
+local FONT_BOLD = "Interface\\AddOns\\TomoModMini\\Assets\\Fonts\\Poppins-SemiBold.ttf"
 
 -- =====================================
 -- HELPERS

@@ -128,6 +128,8 @@ local function BuildTextPositionTab(parent)
 
     local _, ny = W.CreateDropdown(c, L["opt_rb_font"], {
         { text = "Tomo", value = "Interface\\AddOns\\TomoModMini\\Assets\\Fonts\\Tomo.ttf" },
+        { text = "Poppins SemiBold", value = "Interface\\AddOns\\TomoModMini\\Assets\\Fonts\\Poppins-SemiBold.ttf" },
+        { text = "Poppins Bold", value = "Interface\\AddOns\\TomoModMini\\Assets\\Fonts\\Poppins-Bold.ttf" },
         { text = "Friz Quadrata (WoW)", value = "Fonts\\FRIZQT__.TTF" },
         { text = "Arial Narrow (WoW)", value = "Fonts\\ARIALN.TTF" },
         { text = "Morpheus (WoW)", value = "Fonts\\MORPHEUS.TTF" },

@@ -74,13 +74,13 @@ local function CreateConfigFrame()
     local titleText = titleBar:CreateFontString(nil, "OVERLAY")
     titleText:SetFont(FONT_BOLD, 16, "")
     titleText:SetPoint("LEFT", 20, 0)
-    titleText:SetText("|cff0cd29fTomo|r|cffffffffMod|r")
+    titleText:SetText("|cffff3399TomoMod|r|cffffffffMini|r")
 
     local versionText = titleBar:CreateFontString(nil, "OVERLAY")
     versionText:SetFont(FONT, 10, "")
     versionText:SetPoint("LEFT", titleText, "RIGHT", 8, -1)
     versionText:SetTextColor(unpack(T.textDim))
-    versionText:SetText("v2.1.13")
+    versionText:SetText("v2.1.0")
 
     -- Close button
     local closeBtn = CreateFrame("Button", nil, titleBar)
